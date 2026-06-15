@@ -38,7 +38,7 @@ namespace The_Ashenveil_Murders.Core
         /// <summary>
         /// Initializes a new instance of the game. Configures platform-specific settings, 
         /// initializes services like settings and leaderboard managers, and sets up the 
-        /// screen manager for screen transitions.
+        /// screen manager for screen transitions..
         /// </summary>
         public The_Ashenveil_MurdersGame()
         {
